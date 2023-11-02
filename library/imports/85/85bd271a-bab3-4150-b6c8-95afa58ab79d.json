@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fy009",
+    "texture": "5d2e6312-fcd9-410a-a3f3-b94b9db9982a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

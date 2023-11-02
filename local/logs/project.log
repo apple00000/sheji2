@@ -1,0 +1,366 @@
+2023-10-31T11:18:15.259Z - success: protocol editor-framework registered
+2023-10-31T11:18:15.260Z - success: protocol app registered
+2023-10-31T11:18:15.260Z - success: protocol theme registered
+2023-10-31T11:18:15.260Z - success: protocol packages registered
+2023-10-31T11:18:15.274Z - normal: Load ~/.CocosCreator/settings.json
+2023-10-31T11:18:15.290Z - success: protocol uuid registerred
+2023-10-31T11:18:15.291Z - success: protocol db registerred
+2023-10-31T11:18:15.291Z - success: protocol thumbnail registerred
+2023-10-31T11:18:15.366Z - normal: Initializing Asset Database
+2023-10-31T11:18:15.369Z - normal: checking language setting...
+2023-10-31T11:18:15.369Z - normal: Language: zh
+2023-10-31T11:18:15.371Z - success: protocol unpack registerred
+2023-10-31T11:18:15.372Z - success: protocol disable-commonjs registerred
+2023-10-31T11:18:15.724Z - normal: connected!
+2023-10-31T11:18:15.915Z - normal: Check project /Users/xsm/go/src/apple/sheji
+2023-10-31T11:18:15.917Z - normal: Initializing project /Users/xsm/go/src/apple/sheji
+2023-10-31T11:18:16.196Z - success: adapters loaded
+2023-10-31T11:18:16.200Z - success: asset-db-debugger loaded
+2023-10-31T11:18:16.289Z - success: fb-audience-network loaded
+2023-10-31T11:18:16.335Z - success: fb-live-stream loaded
+2023-10-31T11:18:16.338Z - success: google-play-instant loaded
+2023-10-31T11:18:16.339Z - success: jsb-adapter loaded
+2023-10-31T11:18:16.344Z - success: package-manager loaded
+2023-10-31T11:18:16.345Z - success: runtime-adapters loaded
+2023-10-31T11:18:16.349Z - success: runtime-dev-tools loaded
+2023-10-31T11:18:16.353Z - success: ui-kit-preview-extra loaded
+2023-10-31T11:18:16.356Z - success: ui-kit-preview loaded
+2023-10-31T11:18:17.183Z - success: alipay-minigame loaded
+2023-10-31T11:18:17.192Z - success: assets loaded
+2023-10-31T11:18:17.197Z - success: baidugame-opendata loaded
+2023-10-31T11:18:17.200Z - success: baidugame loaded
+2023-10-31T11:18:17.205Z - success: builder loaded
+2023-10-31T11:18:17.209Z - success: bytedance-opendata loaded
+2023-10-31T11:18:17.213Z - success: bytedance loaded
+2023-10-31T11:18:17.216Z - success: channel-upload-tools loaded
+2023-10-31T11:18:17.398Z - success: cloud-function loaded
+2023-10-31T11:18:17.663Z - success: cocos-services loaded
+2023-10-31T11:18:17.668Z - success: console loaded
+2023-10-31T11:18:17.670Z - success: curve-editor loaded
+2023-10-31T11:18:17.681Z - success: fb-instant-games loaded
+2023-10-31T11:18:17.684Z - success: game-window loaded
+2023-10-31T11:18:17.685Z - success: google-instant-games loaded
+2023-10-31T11:18:17.688Z - success: hierarchy loaded
+2023-10-31T11:18:17.692Z - success: huawei-agc loaded
+2023-10-31T11:18:17.697Z - success: huawei-runtime loaded
+2023-10-31T11:18:17.703Z - success: inspector loaded
+2023-10-31T11:18:17.721Z - success: cpk-publish loaded
+2023-10-31T11:18:17.722Z - success: keystore loaded
+2023-10-31T11:18:17.741Z - success: link-sure-runtime loaded
+2023-10-31T11:18:17.754Z - success: node-library loaded
+2023-10-31T11:18:17.755Z - success: open-recent-items loaded
+2023-10-31T11:18:17.760Z - success: oppo-runtime loaded
+2023-10-31T11:18:17.763Z - success: package-asset loaded
+2023-10-31T11:18:17.764Z - success: preferences loaded
+2023-10-31T11:18:17.769Z - success: project-importer loaded
+2023-10-31T11:18:17.772Z - success: project-settings loaded
+2023-10-31T11:18:17.789Z - success: qtt-runtime loaded
+2023-10-31T11:18:17.795Z - success: scene loaded
+2023-10-31T11:18:17.796Z - success: simulator-debugger loaded
+2023-10-31T11:18:17.797Z - success: sprite-editor loaded
+2023-10-31T11:18:17.868Z - success: store loaded
+2023-10-31T11:18:17.874Z - success: taobao-creativeapp loaded
+2023-10-31T11:18:17.879Z - success: timeline loaded
+2023-10-31T11:18:17.885Z - success: vivo-runtime loaded
+2023-10-31T11:18:17.888Z - success: wechatgame-opendata loaded
+2023-10-31T11:18:17.894Z - success: wechatgame loaded
+2023-10-31T11:18:17.899Z - success: xiaomi-runtime loaded
+2023-10-31T11:18:17.905Z - success: 未命名 loaded
+2023-10-31T11:18:17.971Z - success: im-plugin loaded
+2023-10-31T11:18:17.974Z - success: minigame-launch-fast loaded
+2023-10-31T11:18:17.979Z - success: behaviortree-editor loaded
+2023-10-31T11:18:18.302Z - success: ccc-obfuscated-code loaded
+2023-10-31T11:18:18.302Z - success: preview server running at http://localhost:7456
+2023-10-31T11:18:18.310Z - info: Cocos Service load base data!
+2023-10-31T11:18:19.158Z - normal: Initializing Cocos2d
+2023-10-31T11:18:19.454Z - normal: Initializing engine extends
+2023-10-31T11:18:22.428Z - normal: Loading packages
+2023-10-31T11:18:22.432Z - normal: Run Application
+2023-10-31T11:18:26.533Z - normal: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/2.4/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2023-10-31T11:18:26.798Z - success: cloud-function unloaded
+2023-10-31T11:18:37.618Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false,
+    "packageName": "org.cocos2d.demo"
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.WhackZombies",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "28392856-b7ab-45fe-ae3e-8e902874b1c4",
+  "title": "ssyh",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://x.xxxx.com/xxx/WhackZombies",
+    "appid": "wxaa455587e87a6973",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "2c741d7d-60a7-4e",
+  "zipCompressJs": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "android": {
+    "packageName": "org.cocos2d.ssyh",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "agreements": {},
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/xsm/go/src/apple/sheji/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/xsm/go/src/apple/sheji/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "28392856-b7ab-45fe-ae3e-8e902874b1c4"
+  ],
+  "excludedModules": [
+    "Dynamic Atlas",
+    "Geom Utils",
+    "Physics",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "project": "/Users/xsm/go/src/apple/sheji",
+  "projectName": "ssyh",
+  "debugBuildWorker": false
+}
+2023-10-31T11:18:37.619Z - normal: [CC] 将在项目构建完成后自动混淆代码
+2023-10-31T11:18:37.786Z - normal: Building /Users/xsm/go/src/apple/sheji
+2023-10-31T11:18:37.786Z - normal: Destination /Users/xsm/go/src/apple/sheji/build/wechatgame
+2023-10-31T11:18:37.881Z - normal: Start spawn build-worker
+2023-10-31T11:18:39.656Z - normal: Finish spawn build-worker
+2023-10-31T11:18:39.657Z - normal: Delete /Users/xsm/go/src/apple/sheji/build/wechatgame/**/*,!/Users/xsm/go/src/apple/sheji/build/wechatgame/game.json,!/Users/xsm/go/src/apple/sheji/build/wechatgame/project.config.json
+2023-10-31T11:18:41.004Z - normal: Compiling /Users/xsm/go/src/apple/sheji
+2023-10-31T11:18:45.487Z - normal: Start init build-worker
+2023-10-31T11:18:46.926Z - normal: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/2.4/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2023-10-31T11:18:47.071Z - normal: Finish init build-worker
+2023-10-31T11:18:47.071Z - normal: Start build-assets in worker
+2023-10-31T11:18:47.072Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/internal","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2023-10-31T11:18:47.427Z - normal: 
+--- build-asset: {"root":null,"priority":9,"dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene","name":"start-scene","scenes":["28392856-b7ab-45fe-ae3e-8e902874b1c4"],"compressionType":"merge_all_json","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2023-10-31T11:18:48.028Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources","priority":8,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2023-10-31T11:18:50.441Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main","name":"main","scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2023-10-31T11:18:50.783Z - normal: Finish build-assets in worker
+2023-10-31T11:18:50.806Z - normal: Start building plugin scripts
+2023-10-31T11:18:54.096Z - normal: [CC] 正在混淆代码
+2023-10-31T11:18:58.832Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene/index.js
+2023-10-31T11:18:58.879Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main/index.js
+2023-10-31T11:18:58.962Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources/index.js
+2023-10-31T11:18:58.962Z - normal: [CC] 混淆已完成
+2023-10-31T11:18:59.157Z - normal: [minigame-launch-fast] 小游戏首屏启动优化开始
+2023-10-31T11:18:59.171Z - normal: [minigame-launch-fast] 小游戏首屏启动优化完成
+2023-10-31T11:18:59.171Z - normal: Built wechatgame successfully
+2023-10-31T11:38:18.612Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false,
+    "packageName": "org.cocos2d.demo"
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.WhackZombies",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "28392856-b7ab-45fe-ae3e-8e902874b1c4",
+  "title": "ssyh",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://x.xxxx.com/xxx/WhackZombies",
+    "appid": "wxaa455587e87a6973",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "2c741d7d-60a7-4e",
+  "zipCompressJs": true,
+  "mainCompressionType": "subpackage",
+  "mainIsRemote": false,
+  "android": {
+    "packageName": "org.cocos2d.ssyh",
+    "REMOTE_SERVER_ROOT": ""
+  },
+  "ios": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo",
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "width": 1280,
+    "height": 720
+  },
+  "agreements": {},
+  "platform": "mini-game",
+  "actualPlatform": "wechatgame",
+  "template": "link",
+  "buildPath": "/Users/xsm/go/src/apple/sheji/build",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "buildScriptsOnly": false,
+  "dest": "/Users/xsm/go/src/apple/sheji/build/wechatgame",
+  "separateEngineMode": false,
+  "scenes": [
+    "28392856-b7ab-45fe-ae3e-8e902874b1c4"
+  ],
+  "excludedModules": [
+    "Dynamic Atlas",
+    "Geom Utils",
+    "Physics",
+    "TiledMap",
+    "VideoPlayer",
+    "WebView",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "project": "/Users/xsm/go/src/apple/sheji",
+  "projectName": "ssyh",
+  "debugBuildWorker": false
+}
+2023-10-31T11:38:18.620Z - normal: [CC] 将在项目构建完成后自动混淆代码
+2023-10-31T11:38:18.623Z - normal: Building /Users/xsm/go/src/apple/sheji
+2023-10-31T11:38:18.623Z - normal: Destination /Users/xsm/go/src/apple/sheji/build/wechatgame
+2023-10-31T11:38:18.629Z - normal: Start spawn build-worker
+2023-10-31T11:38:21.119Z - normal: Finish spawn build-worker
+2023-10-31T11:38:21.120Z - normal: Delete /Users/xsm/go/src/apple/sheji/build/wechatgame/**/*,!/Users/xsm/go/src/apple/sheji/build/wechatgame/game.json,!/Users/xsm/go/src/apple/sheji/build/wechatgame/project.config.json
+2023-10-31T11:38:22.643Z - normal: Compiling /Users/xsm/go/src/apple/sheji
+2023-10-31T11:38:27.081Z - normal: Start init build-worker
+2023-10-31T11:38:28.910Z - normal: cc.loader is deprecated, use cc.assetManager instead please. See https://docs.cocos.com/creator/2.4/manual/zh/release-notes/asset-manager-upgrade-guide.html
+2023-10-31T11:38:29.038Z - normal: Finish init build-worker
+2023-10-31T11:38:29.038Z - normal: Start build-assets in worker
+2023-10-31T11:38:29.038Z - normal: 
+--- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/internal","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
+
+2023-10-31T11:38:29.487Z - normal: 
+--- build-asset: {"root":null,"priority":9,"dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene","name":"start-scene","scenes":["28392856-b7ab-45fe-ae3e-8e902874b1c4"],"compressionType":"merge_all_json","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2023-10-31T11:38:30.148Z - normal: 
+--- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources","priority":8,"scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":false,"isRemote":false}
+
+2023-10-31T11:38:32.980Z - normal: 
+--- build-asset: {"root":null,"priority":7,"dest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main","scriptDest":"/Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main","name":"main","scenes":[],"compressionType":"subpackage","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
+
+2023-10-31T11:38:33.331Z - normal: Finish build-assets in worker
+2023-10-31T11:38:33.374Z - normal: Start building plugin scripts
+2023-10-31T11:38:36.693Z - normal: [CC] 正在混淆代码
+2023-10-31T11:38:41.646Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/assets/start-scene/index.js
+2023-10-31T11:38:41.673Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/main/index.js
+2023-10-31T11:38:41.745Z - normal: [CC] 已混淆代码文件 /Users/xsm/go/src/apple/sheji/build/wechatgame/subpackages/resources/index.js
+2023-10-31T11:38:41.745Z - normal: [CC] 混淆已完成
+2023-10-31T11:38:41.931Z - normal: [minigame-launch-fast] 小游戏首屏启动优化开始
+2023-10-31T11:38:41.949Z - normal: [minigame-launch-fast] 小游戏首屏启动优化完成
+2023-10-31T11:38:41.950Z - normal: Built wechatgame successfully

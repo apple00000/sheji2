@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huli",
+    "texture": "3f5ba4b4-4f77-48f9-88b0-18e48bc8649e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      84,
+      106
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

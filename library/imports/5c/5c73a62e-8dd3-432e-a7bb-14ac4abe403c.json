@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roloSupply",
+    "texture": "b7dd4c89-f220-4592-b34a-7a3ea6e3f143",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      194,
+      54
+    ],
+    "offset": [
+      -29,
+      3
+    ],
+    "originalSize": [
+      256,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

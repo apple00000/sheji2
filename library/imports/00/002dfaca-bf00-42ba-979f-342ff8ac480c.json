@@ -1,0 +1,139 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "prop_006",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "skuqwMEiJzhQ9MyZ1utpe35wa34",
+      "spine": "3.6.53",
+      "width": 90,
+      "height": 394,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "boomE04",
+        "bone": "root"
+      },
+      {
+        "name": "boomE03",
+        "bone": "root"
+      },
+      {
+        "name": "boomE02",
+        "bone": "root"
+      },
+      {
+        "name": "boomE01",
+        "bone": "root",
+        "attachment": "boomE01"
+      }
+    ],
+    "skins": {
+      "default": {
+        "boomE01": {
+          "boomE01": {
+            "x": 1.35,
+            "y": 200,
+            "width": 90,
+            "height": 394
+          }
+        },
+        "boomE02": {
+          "boomE02": {
+            "x": 1.35,
+            "y": 200.5,
+            "width": 98,
+            "height": 401
+          }
+        },
+        "boomE03": {
+          "boomE03": {
+            "x": 1.35,
+            "y": 200.5,
+            "width": 84,
+            "height": 399
+          }
+        },
+        "boomE04": {
+          "boomE04": {
+            "x": 1.35,
+            "y": 200,
+            "width": 92,
+            "height": 394
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "boomE01": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "boomE01"
+              },
+              {
+                "time": 0.0667,
+                "name": null
+              }
+            ]
+          },
+          "boomE02": {
+            "attachment": [
+              {
+                "time": 0.0667,
+                "name": "boomE02"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              }
+            ]
+          },
+          "boomE03": {
+            "attachment": [
+              {
+                "time": 0.1333,
+                "name": "boomE03"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              }
+            ]
+          },
+          "boomE04": {
+            "attachment": [
+              {
+                "time": 0.2,
+                "name": "boomE04"
+              },
+              {
+                "time": 0.2667,
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nprop_006.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nboomE01\r\n  rotate: false\r\n  xy: 196, 9\r\n  size: 90, 394\r\n  orig: 90, 394\r\n  offset: 0, 0\r\n  index: -1\r\nboomE02\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 98, 401\r\n  orig: 98, 401\r\n  offset: 0, 0\r\n  index: -1\r\nboomE03\r\n  rotate: false\r\n  xy: 288, 4\r\n  size: 84, 399\r\n  orig: 84, 399\r\n  offset: 0, 0\r\n  index: -1\r\nboomE04\r\n  rotate: false\r\n  xy: 102, 9\r\n  size: 92, 394\r\n  orig: 92, 394\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "0d6776ac-9df5-4ef3-8821-7443639803d7"
+    }
+  ],
+  "textureNames": [
+    "prop_006.png"
+  ],
+  "scale": 1
+}

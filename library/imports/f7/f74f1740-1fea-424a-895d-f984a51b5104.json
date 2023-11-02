@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biubiu_007",
+    "texture": "d67d9697-3389-4b54-927a-a8900ffdbcbd",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      58,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

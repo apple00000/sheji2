@@ -1,0 +1,1467 @@
+{
+  "projectPath": "/Users/xsm/go/src/apple/sheji",
+  "actualPlatform": "wechatgame",
+  "mtimes": {
+    "d81539e8-0053-481c-8b74-e12ffea9c9ad": {
+      "assetMtime": 1689816573201,
+      "metaMtime": 1689817634867
+    },
+    "052da6d7-9dae-48bf-8603-00e6700cab7b": {
+      "assetMtime": 1689816573192,
+      "metaMtime": 1689817634931
+    },
+    "e37093f8-1f83-48ce-be8d-e226b45bc555": {
+      "assetMtime": 1689816573192,
+      "metaMtime": 1689817634931
+    },
+    "0f413af5-f6cc-4904-b1f2-866bdaeb782a": {
+      "assetMtime": 1689816573199,
+      "metaMtime": 1689817634990
+    },
+    "4c7cc1af-6e7f-4941-ad11-eb71efccadc2": {
+      "assetMtime": 1689816573199,
+      "metaMtime": 1689817634990
+    },
+    "116c44d7-430d-4095-8ecd-857d95c3004e": {
+      "assetMtime": 1689816573224,
+      "metaMtime": 1689817634975
+    },
+    "16f1facc-eec7-45bc-91e0-ccea9e6f537e": {
+      "assetMtime": 1689816573224,
+      "metaMtime": 1689817634975
+    },
+    "14fe3985-121d-4098-a4b1-9480ee565594": {
+      "assetMtime": 1689816573225,
+      "metaMtime": 1689817635001
+    },
+    "145c322e-8566-4398-917c-b3566dd1611e": {
+      "assetMtime": 1689816573225,
+      "metaMtime": 1689817635001
+    },
+    "154b184c-1231-44b5-9563-e52a8ae33ff1": {
+      "assetMtime": 1689816573224,
+      "metaMtime": 1689817634895
+    },
+    "1dbb94b4-b92f-4ffa-842d-d52ab0779a7b": {
+      "assetMtime": 1689816573224,
+      "metaMtime": 1689817634895
+    },
+    "2359cd89-d9d9-4af9-b3b1-600750ce7253": {
+      "assetMtime": 1689816573194,
+      "metaMtime": 1689817634928
+    },
+    "29232786-5461-4dce-a7b6-3fcb5696f04c": {
+      "assetMtime": 1689816573194,
+      "metaMtime": 1689817634928
+    },
+    "2497bc1a-7f6e-4f24-ab84-cb3648debdd7": {
+      "assetMtime": 1689816573196,
+      "metaMtime": 1689817634913
+    },
+    "5931c831-4ded-4d86-a992-01c59fb58d97": {
+      "assetMtime": 1689816573196,
+      "metaMtime": 1689817634913
+    },
+    "2cea301d-167c-4276-a223-7e3819e35abb": {
+      "assetMtime": 1689816573210,
+      "metaMtime": 1689817635026
+    },
+    "fea6093f-721a-4c12-8704-2b8e2c7c9c9b": {
+      "assetMtime": 1689816573210,
+      "metaMtime": 1689817635026
+    },
+    "2ed5ea69-2054-4155-9e2a-89adb3d2b5f0": {
+      "assetMtime": 1689816573203,
+      "metaMtime": 1689817634965
+    },
+    "ae5451df-827a-490d-ba20-1c1d3b42fbf7": {
+      "assetMtime": 1689816573203,
+      "metaMtime": 1689817634965
+    },
+    "3165f3fe-5af7-4232-989c-031e7378d78a": {
+      "assetMtime": 1689816573213,
+      "metaMtime": 1689817634892
+    },
+    "b8e73cae-b1fc-4bd4-8341-8387ccb1bdf8": {
+      "assetMtime": 1689816573213,
+      "metaMtime": 1689817634892
+    },
+    "3d90ab05-34b3-45d1-8e6e-73fc30bf2325": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817634951
+    },
+    "41b37f46-01bd-4a01-be31-4a34c5097d90": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817634951
+    },
+    "3e8c15cf-5728-4c20-b13c-b0199bc8c8c3": {
+      "assetMtime": 1689816573195,
+      "metaMtime": 1689817635003
+    },
+    "c86b6ae6-80db-4817-9863-feed029559be": {
+      "assetMtime": 1689816573195,
+      "metaMtime": 1689817635003
+    },
+    "4404ef72-e87b-4f75-a38b-ffb73080b7ce": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634918
+    },
+    "8e633378-a4f2-4ed4-844e-dd3db3f319ac": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634918
+    },
+    "53eb0cfe-d574-4c85-8cad-248922d913dd": {
+      "assetMtime": 1689816573212,
+      "metaMtime": 1689817635031
+    },
+    "493e2a2a-c9c5-4079-842c-ffd251466955": {
+      "assetMtime": 1689816573212,
+      "metaMtime": 1689817635031
+    },
+    "5602b65a-282a-45c0-aaca-b2783ca27a27": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817634964
+    },
+    "ac04cdae-c10e-4a89-b9ae-da8a854fa21a": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817634964
+    },
+    "57ddbe43-45fd-40bc-8587-02976da5cf98": {
+      "assetMtime": 1689816573204,
+      "metaMtime": 1689817634962
+    },
+    "7b1c8945-3eb2-4537-827d-0d29ba5a19eb": {
+      "assetMtime": 1689816573204,
+      "metaMtime": 1689817634962
+    },
+    "59d6cd17-38b9-411e-a867-deb83060a7e2": {
+      "assetMtime": 1689816573195,
+      "metaMtime": 1689817635019
+    },
+    "ac0910e8-b0cf-404f-8bb9-cc249636c433": {
+      "assetMtime": 1689816573195,
+      "metaMtime": 1689817635019
+    },
+    "5aa03c45-c00c-4bed-a93e-c5357dcf8be8": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817635018
+    },
+    "8b0e283d-24d4-40eb-a3a5-4a96bde4de6f": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817635018
+    },
+    "66871497-89ae-4b0c-9b1b-7c789cb68a45": {
+      "assetMtime": 1689816573194,
+      "metaMtime": 1689817634912
+    },
+    "181acb26-e04a-40a2-bc9a-c97c7971f7e9": {
+      "assetMtime": 1689816573194,
+      "metaMtime": 1689817634912
+    },
+    "73aecf2f-0588-4f97-8a52-7b3920b3cdd0": {
+      "assetMtime": 1689816573214,
+      "metaMtime": 1689817635011
+    },
+    "2e0f8a81-7076-49fc-826a-2aaea4625dab": {
+      "assetMtime": 1689816573214,
+      "metaMtime": 1689817635011
+    },
+    "778edab6-e589-40c9-8b56-0709fd0cb778": {
+      "assetMtime": 1689816573199,
+      "metaMtime": 1689817634983
+    },
+    "9e8f3ba2-eb2c-4719-9abf-ca5b9f6e0fc0": {
+      "assetMtime": 1689816573199,
+      "metaMtime": 1689817634983
+    },
+    "8f6d45ff-a34b-4a27-8843-1b5dfb4e0b7c": {
+      "assetMtime": 1689816573207,
+      "metaMtime": 1689817634897
+    },
+    "33cb7fba-8630-4e31-bbce-a2b055b47270": {
+      "assetMtime": 1689816573207,
+      "metaMtime": 1689817634897
+    },
+    "95054a86-d542-4622-9106-008d0b718595": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634909
+    },
+    "81aa2c6a-0c8b-4636-a49a-62deea334a1d": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634909
+    },
+    "9778fc12-f70c-4119-95c2-dd84739e1f75": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817635028
+    },
+    "23ef6806-2201-47d2-b4bc-fe18743a1f3d": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817635028
+    },
+    "99309c61-1630-4958-ae3e-3468597b8131": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817635029
+    },
+    "8e311afb-7e52-4109-87cd-87246fc52f62": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817635029
+    },
+    "9defd4f3-8fd1-40f7-a779-cd451e1e962c": {
+      "assetMtime": 1689816573217,
+      "metaMtime": 1689817634944
+    },
+    "ead0565d-2248-43b9-b2f6-a6d9221234a9": {
+      "assetMtime": 1689816573217,
+      "metaMtime": 1689817634944
+    },
+    "aa9eac98-3844-4d00-9758-82e6075a394c": {
+      "assetMtime": 1689816573213,
+      "metaMtime": 1689817634891
+    },
+    "ff544de4-7329-4a72-ad40-b62b15ca6d3a": {
+      "assetMtime": 1689816573213,
+      "metaMtime": 1689817634891
+    },
+    "abdcc926-b1ad-4b9e-99a6-e841bafcfc0d": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634985
+    },
+    "88bb5c42-af92-4ad0-b715-94435d23b650": {
+      "assetMtime": 1689816573218,
+      "metaMtime": 1689817634985
+    },
+    "ade10e40-a508-4331-8542-452db6424ef6": {
+      "assetMtime": 1689816573200,
+      "metaMtime": 1689817634950
+    },
+    "5a2b3923-ca47-41b3-a4f0-65cdf1a2d1e8": {
+      "assetMtime": 1689816573200,
+      "metaMtime": 1689817634950
+    },
+    "b9f3254c-2ca3-4869-82f4-128ad8619c4b": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817635030
+    },
+    "45474fff-5a68-45a9-94f1-899b831bce42": {
+      "assetMtime": 1689816573206,
+      "metaMtime": 1689817635030
+    },
+    "bb3e1698-be1c-4f4b-b70d-a2666700ebfb": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817634948
+    },
+    "06f312c3-1bc6-4263-88a4-653eef865f68": {
+      "assetMtime": 1689816573202,
+      "metaMtime": 1689817634948
+    },
+    "bb73ad31-2807-4da0-bcb9-06131396881b": {
+      "assetMtime": 1689816573196,
+      "metaMtime": 1689817634987
+    },
+    "5367f19c-b4dd-4c28-8cec-088fccf8bfce": {
+      "assetMtime": 1689816573196,
+      "metaMtime": 1689817634987
+    },
+    "c02c62c0-523f-4959-9321-8967a771040d": {
+      "assetMtime": 1689816573220,
+      "metaMtime": 1689817634917
+    },
+    "9035764a-5bea-470f-ac96-21cfc660627e": {
+      "assetMtime": 1689816573220,
+      "metaMtime": 1689817634917
+    },
+    "cf3ebece-36da-4df1-a9b7-786afe803ba6": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817634999
+    },
+    "25f52544-97d1-412a-931f-3ebed5324fad": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817634999
+    },
+    "cff2df4d-5794-474f-a70b-366e7f31c037": {
+      "assetMtime": 1689816573215,
+      "metaMtime": 1689817634981
+    },
+    "aa32887b-740d-4f84-87aa-37f39c837ad0": {
+      "assetMtime": 1689816573215,
+      "metaMtime": 1689817634981
+    },
+    "db6541dc-4c5a-470e-876e-046d673d276c": {
+      "assetMtime": 1689816573197,
+      "metaMtime": 1689817634929
+    },
+    "e6bb77e0-6764-4b94-98dc-fd548a7a96bb": {
+      "assetMtime": 1689816573197,
+      "metaMtime": 1689817634929
+    },
+    "df152f0c-72e4-41d6-8829-4f0910443e6b": {
+      "assetMtime": 1689816573193,
+      "metaMtime": 1689817634998
+    },
+    "54c8b586-6e5f-449b-bb01-d6edd5949c03": {
+      "assetMtime": 1689816573193,
+      "metaMtime": 1689817634998
+    },
+    "dffaeebb-8227-4bae-8e57-f61f87603c1d": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817634939
+    },
+    "3344f1df-1224-43a4-9bae-413d3ffe0647": {
+      "assetMtime": 1689816573198,
+      "metaMtime": 1689817634939
+    },
+    "e33e1bc8-f238-40e3-9570-36e02f49a95e": {
+      "assetMtime": 1689816573200,
+      "metaMtime": 1689817634932
+    },
+    "f9e5de42-659a-4f19-9f58-522e2a122455": {
+      "assetMtime": 1689816573200,
+      "metaMtime": 1689817634932
+    },
+    "e9280f40-605d-4b91-b8e3-20a1432cb741": {
+      "assetMtime": 1689816573209,
+      "metaMtime": 1689817634976
+    },
+    "65a9dd84-9362-4542-9175-490dbf9193f1": {
+      "assetMtime": 1689816573209,
+      "metaMtime": 1689817634976
+    },
+    "e96633fc-e080-4e37-8424-7e03b8ea6655": {
+      "assetMtime": 1689816573219,
+      "metaMtime": 1689817634907
+    },
+    "6790ca09-8af2-4edd-9e9c-ca1f39cc288d": {
+      "assetMtime": 1689816573219,
+      "metaMtime": 1689817634907
+    },
+    "f4c6dbea-69d4-4702-9a7a-32d8427cfd41": {
+      "assetMtime": 1689816573211,
+      "metaMtime": 1689817634973
+    },
+    "2ec3ec70-f234-4f73-84db-71ebb6ddba23": {
+      "assetMtime": 1689816573211,
+      "metaMtime": 1689817634973
+    },
+    "f8fc4bb4-5ae5-419b-b622-1c988b356ed9": {
+      "assetMtime": 1689816573221,
+      "metaMtime": 1689817634896
+    },
+    "7f8a4882-31a7-4226-9bb7-62f9f7bc9c47": {
+      "assetMtime": 1689816573221,
+      "metaMtime": 1689817634896
+    },
+    "fb83b307-e35b-4795-86dd-3d37c7e644e0": {
+      "assetMtime": 1689816573217,
+      "metaMtime": 1689817635000
+    },
+    "f147319a-726b-45af-adeb-392ea2e3f95d": {
+      "assetMtime": 1689816573217,
+      "metaMtime": 1689817635000
+    },
+    "fe114ceb-fb03-41f6-a178-c919677e6a2b": {
+      "assetMtime": 1689816573211,
+      "metaMtime": 1689817634946
+    },
+    "2b0d8193-7132-4419-bd6f-7014d2322904": {
+      "assetMtime": 1689816573211,
+      "metaMtime": 1689817634946
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "d81539e8-0053-481c-8b74-e12ffea9c9ad",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "circle-border-alpha",
+            "uuid": "3d90ab05-34b3-45d1-8e6e-73fc30bf2325",
+            "textureUuid": "41b37f46-01bd-4a01-be31-4a34c5097d90",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971180_image_10.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 194,
+              "height": 194,
+              "rotatedWidth": 194,
+              "rotatedHeight": 194
+            },
+            "rawWidth": 200,
+            "rawHeight": 200,
+            "width": 200,
+            "height": 200,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/41/41b37f46-01bd-4a01-be31-4a34c5097d90.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 200,
+            "rotatedHeight": 200
+          },
+          {
+            "name": "enemy_003c",
+            "uuid": "57ddbe43-45fd-40bc-8587-02976da5cf98",
+            "textureUuid": "7b1c8945-3eb2-4537-827d-0d29ba5a19eb",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971181_image_15.png",
+            "trim": {
+              "x": 203,
+              "y": 3,
+              "width": 194,
+              "height": 193,
+              "rotatedWidth": 194,
+              "rotatedHeight": 193
+            },
+            "rawWidth": 196,
+            "rawHeight": 196,
+            "width": 200,
+            "height": 199,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/7b/7b1c8945-3eb2-4537-827d-0d29ba5a19eb.png",
+            "x": 200,
+            "y": 0,
+            "rotatedWidth": 200,
+            "rotatedHeight": 199
+          },
+          {
+            "name": "role_001m",
+            "uuid": "2cea301d-167c-4276-a223-7e3819e35abb",
+            "textureUuid": "fea6093f-721a-4c12-8704-2b8e2c7c9c9b",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_7.png",
+            "trim": {
+              "x": 403,
+              "y": 3,
+              "width": 106,
+              "height": 106,
+              "rotatedWidth": 106,
+              "rotatedHeight": 106
+            },
+            "rawWidth": 110,
+            "rawHeight": 110,
+            "width": 112,
+            "height": 112,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/fe/fea6093f-721a-4c12-8704-2b8e2c7c9c9b.png",
+            "x": 400,
+            "y": 0,
+            "rotatedWidth": 112,
+            "rotatedHeight": 112
+          },
+          {
+            "name": "biubiu_006g",
+            "uuid": "4404ef72-e87b-4f75-a38b-ffb73080b7ce",
+            "textureUuid": "8e633378-a4f2-4ed4-844e-dd3db3f319ac",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971180_image_12.png",
+            "trim": {
+              "x": 403,
+              "y": 115,
+              "width": 108,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 108,
+            "rawHeight": 103,
+            "width": 114,
+            "height": 109,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/8e/8e633378-a4f2-4ed4-844e-dd3db3f319ac.png",
+            "x": 400,
+            "y": 112,
+            "rotated": true,
+            "rotatedWidth": 109,
+            "rotatedHeight": 114
+          },
+          {
+            "name": "eff_001",
+            "uuid": "ade10e40-a508-4331-8542-452db6424ef6",
+            "textureUuid": "5a2b3923-ca47-41b3-a4f0-65cdf1a2d1e8",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_28.png",
+            "trim": {
+              "x": 203,
+              "y": 202,
+              "width": 192,
+              "height": 177,
+              "rotatedWidth": 192,
+              "rotatedHeight": 177
+            },
+            "rawWidth": 192,
+            "rawHeight": 177,
+            "width": 198,
+            "height": 183,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/5a/5a2b3923-ca47-41b3-a4f0-65cdf1a2d1e8.png",
+            "x": 200,
+            "y": 199,
+            "rotatedWidth": 198,
+            "rotatedHeight": 183
+          },
+          {
+            "name": "biubiu_010g",
+            "uuid": "9defd4f3-8fd1-40f7-a779-cd451e1e962c",
+            "textureUuid": "ead0565d-2248-43b9-b2f6-a6d9221234a9",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_25.png",
+            "trim": {
+              "x": 401,
+              "y": 229,
+              "width": 104,
+              "height": 102,
+              "rotatedWidth": 104,
+              "rotatedHeight": 102
+            },
+            "rawWidth": 104,
+            "rawHeight": 102,
+            "width": 110,
+            "height": 108,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/ea/ead0565d-2248-43b9-b2f6-a6d9221234a9.png",
+            "x": 398,
+            "y": 226,
+            "rotatedWidth": 110,
+            "rotatedHeight": 108
+          },
+          {
+            "name": "role_001n",
+            "uuid": "53eb0cfe-d574-4c85-8cad-248922d913dd",
+            "textureUuid": "493e2a2a-c9c5-4079-842c-ffd251466955",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971180_image_13.png",
+            "trim": {
+              "x": 401,
+              "y": 337,
+              "width": 100,
+              "height": 100,
+              "rotatedWidth": 100,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 110,
+            "rawHeight": 110,
+            "width": 106,
+            "height": 106,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/49/493e2a2a-c9c5-4079-842c-ffd251466955.png",
+            "x": 398,
+            "y": 334,
+            "rotatedWidth": 106,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "biubiu_005g",
+            "uuid": "2497bc1a-7f6e-4f24-ab84-cb3648debdd7",
+            "textureUuid": "5931c831-4ded-4d86-a992-01c59fb58d97",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 203,
+              "width": 159,
+              "height": 136,
+              "rotatedWidth": 159,
+              "rotatedHeight": 136
+            },
+            "rawWidth": 159,
+            "rawHeight": 136,
+            "width": 165,
+            "height": 142,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/59/5931c831-4ded-4d86-a992-01c59fb58d97.png",
+            "x": 0,
+            "y": 200,
+            "rotatedWidth": 165,
+            "rotatedHeight": 142
+          },
+          {
+            "name": "biubiu_003",
+            "uuid": "154b184c-1231-44b5-9563-e52a8ae33ff1",
+            "textureUuid": "1dbb94b4-b92f-4ffa-842d-d52ab0779a7b",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_4.png",
+            "trim": {
+              "x": 168,
+              "y": 203,
+              "width": 6,
+              "height": 180,
+              "rotatedWidth": 6,
+              "rotatedHeight": 180
+            },
+            "rawWidth": 6,
+            "rawHeight": 181,
+            "width": 12,
+            "height": 186,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/1d/1dbb94b4-b92f-4ffa-842d-d52ab0779a7b.png",
+            "x": 165,
+            "y": 200,
+            "rotatedWidth": 12,
+            "rotatedHeight": 186
+          },
+          {
+            "name": "biubiu_001",
+            "uuid": "f8fc4bb4-5ae5-419b-b622-1c988b356ed9",
+            "textureUuid": "7f8a4882-31a7-4226-9bb7-62f9f7bc9c47",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971187_image_42.png",
+            "trim": {
+              "x": 180,
+              "y": 203,
+              "width": 8,
+              "height": 105,
+              "rotatedWidth": 8,
+              "rotatedHeight": 105
+            },
+            "rawWidth": 8,
+            "rawHeight": 107,
+            "width": 14,
+            "height": 111,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/7f/7f8a4882-31a7-4226-9bb7-62f9f7bc9c47.png",
+            "x": 177,
+            "y": 200,
+            "rotatedWidth": 14,
+            "rotatedHeight": 111
+          },
+          {
+            "name": "enemy_002b",
+            "uuid": "bb3e1698-be1c-4f4b-b70d-a2666700ebfb",
+            "textureUuid": "06f312c3-1bc6-4263-88a4-653eef865f68",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971184_image_30.png",
+            "trim": {
+              "x": 180,
+              "y": 314,
+              "width": 15,
+              "height": 63,
+              "rotatedWidth": 15,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 16,
+            "rawHeight": 64,
+            "width": 21,
+            "height": 69,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/06/06f312c3-1bc6-4263-88a4-653eef865f68.png",
+            "x": 177,
+            "y": 311,
+            "rotatedWidth": 21,
+            "rotatedHeight": 69
+          },
+          {
+            "name": "biubiu_004",
+            "uuid": "e96633fc-e080-4e37-8424-7e03b8ea6655",
+            "textureUuid": "6790ca09-8af2-4edd-9e9c-ca1f39cc288d",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971186_image_40.png",
+            "trim": {
+              "x": 180,
+              "y": 383,
+              "width": 6,
+              "height": 76,
+              "rotatedWidth": 6,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 6,
+            "rawHeight": 76,
+            "width": 12,
+            "height": 82,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/67/6790ca09-8af2-4edd-9e9c-ca1f39cc288d.png",
+            "x": 177,
+            "y": 380,
+            "rotatedWidth": 12,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "biubiu_009g",
+            "uuid": "dffaeebb-8227-4bae-8e57-f61f87603c1d",
+            "textureUuid": "3344f1df-1224-43a4-9bae-413d3ffe0647",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971185_image_37.png",
+            "trim": {
+              "x": 3,
+              "y": 389,
+              "width": 127,
+              "height": 111,
+              "rotatedWidth": 127,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 127,
+            "rawHeight": 111,
+            "width": 133,
+            "height": 117,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/33/3344f1df-1224-43a4-9bae-413d3ffe0647.png",
+            "x": 0,
+            "y": 386,
+            "rotatedWidth": 133,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "biubiu_009a",
+            "uuid": "2359cd89-d9d9-4af9-b3b1-600750ce7253",
+            "textureUuid": "29232786-5461-4dce-a7b6-3fcb5696f04c",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 345,
+              "width": 30,
+              "height": 101,
+              "rotatedWidth": 101,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 30,
+            "rawHeight": 101,
+            "width": 36,
+            "height": 107,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/29/29232786-5461-4dce-a7b6-3fcb5696f04c.png",
+            "x": 0,
+            "y": 342,
+            "rotated": true,
+            "rotatedWidth": 107,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "enemy_001b",
+            "uuid": "fe114ceb-fb03-41f6-a178-c919677e6a2b",
+            "textureUuid": "2b0d8193-7132-4419-bd6f-7014d2322904",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971188_image_44.png",
+            "trim": {
+              "x": 110,
+              "y": 345,
+              "width": 33,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 34,
+            "rawHeight": 34,
+            "width": 39,
+            "height": 39,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/2b/2b0d8193-7132-4419-bd6f-7014d2322904.png",
+            "x": 107,
+            "y": 342,
+            "rotatedWidth": 39,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "biubiu_008a",
+            "uuid": "db6541dc-4c5a-470e-876e-046d673d276c",
+            "textureUuid": "e6bb77e0-6764-4b94-98dc-fd548a7a96bb",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971185_image_35.png",
+            "trim": {
+              "x": 136,
+              "y": 389,
+              "width": 30,
+              "height": 76,
+              "rotatedWidth": 30,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 30,
+            "rawHeight": 76,
+            "width": 36,
+            "height": 82,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/e6/e6bb77e0-6764-4b94-98dc-fd548a7a96bb.png",
+            "x": 133,
+            "y": 386,
+            "rotatedWidth": 36,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "biubiu_001g",
+            "uuid": "3165f3fe-5af7-4232-989c-031e7378d78a",
+            "textureUuid": "b8e73cae-b1fc-4bd4-8341-8387ccb1bdf8",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_9.png",
+            "trim": {
+              "x": 192,
+              "y": 385,
+              "width": 89,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 89,
+            "rawHeight": 91,
+            "width": 95,
+            "height": 97,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/b8/b8e73cae-b1fc-4bd4-8341-8387ccb1bdf8.png",
+            "x": 189,
+            "y": 382,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "biubiu_001p",
+            "uuid": "aa9eac98-3844-4d00-9758-82e6075a394c",
+            "textureUuid": "ff544de4-7329-4a72-ad40-b62b15ca6d3a",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_26.png",
+            "trim": {
+              "x": 136,
+              "y": 471,
+              "width": 50,
+              "height": 59,
+              "rotatedWidth": 50,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 59,
+            "rawHeight": 68,
+            "width": 56,
+            "height": 65,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/ff/ff544de4-7329-4a72-ad40-b62b15ca6d3a.png",
+            "x": 133,
+            "y": 468,
+            "rotatedWidth": 56,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "biubiu_004g",
+            "uuid": "66871497-89ae-4b0c-9b1b-7c789cb68a45",
+            "textureUuid": "181acb26-e04a-40a2-bc9a-c97c7971f7e9",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971182_image_18.png",
+            "trim": {
+              "x": 3,
+              "y": 506,
+              "width": 89,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 89,
+            "rawHeight": 91,
+            "width": 95,
+            "height": 97,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/18/181acb26-e04a-40a2-bc9a-c97c7971f7e9.png",
+            "x": 0,
+            "y": 503,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "biubiu_008b",
+            "uuid": "e33e1bc8-f238-40e3-9570-36e02f49a95e",
+            "textureUuid": "f9e5de42-659a-4f19-9f58-522e2a122455",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971186_image_38.png",
+            "trim": {
+              "x": 100,
+              "y": 506,
+              "width": 30,
+              "height": 76,
+              "rotatedWidth": 30,
+              "rotatedHeight": 76
+            },
+            "rawWidth": 30,
+            "rawHeight": 76,
+            "width": 36,
+            "height": 82,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/f9/f9e5de42-659a-4f19-9f58-522e2a122455.png",
+            "x": 97,
+            "y": 503,
+            "rotatedWidth": 36,
+            "rotatedHeight": 82
+          },
+          {
+            "name": "biubiu_005",
+            "uuid": "95054a86-d542-4622-9106-008d0b718595",
+            "textureUuid": "81aa2c6a-0c8b-4636-a49a-62deea334a1d",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971182_image_22.png",
+            "trim": {
+              "x": 289,
+              "y": 385,
+              "width": 81,
+              "height": 91,
+              "rotatedWidth": 91,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 81,
+            "rawHeight": 92,
+            "width": 87,
+            "height": 97,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/81/81aa2c6a-0c8b-4636-a49a-62deea334a1d.png",
+            "x": 286,
+            "y": 382,
+            "rotated": true,
+            "rotatedWidth": 97,
+            "rotatedHeight": 87
+          },
+          {
+            "name": "biubiu_007g",
+            "uuid": "c02c62c0-523f-4959-9321-8967a771040d",
+            "textureUuid": "9035764a-5bea-470f-ac96-21cfc660627e",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971184_image_32.png",
+            "trim": {
+              "x": 386,
+              "y": 443,
+              "width": 111,
+              "height": 64,
+              "rotatedWidth": 111,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 111,
+            "rawHeight": 64,
+            "width": 117,
+            "height": 70,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/90/9035764a-5bea-470f-ac96-21cfc660627e.png",
+            "x": 383,
+            "y": 440,
+            "rotatedWidth": 117,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "biubiu_008g",
+            "uuid": "052da6d7-9dae-48bf-8603-00e6700cab7b",
+            "textureUuid": "e37093f8-1f83-48ce-be8d-e226b45bc555",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971178_image_0.png",
+            "trim": {
+              "x": 289,
+              "y": 472,
+              "width": 69,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 69,
+            "rawHeight": 85,
+            "width": 75,
+            "height": 91,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/e3/e37093f8-1f83-48ce-be8d-e226b45bc555.png",
+            "x": 286,
+            "y": 469,
+            "rotated": true,
+            "rotatedWidth": 91,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "biubiu_003g",
+            "uuid": "8f6d45ff-a34b-4a27-8843-1b5dfb4e0b7c",
+            "textureUuid": "33cb7fba-8630-4e31-bbce-a2b055b47270",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971182_image_21.png",
+            "trim": {
+              "x": 192,
+              "y": 480,
+              "width": 69,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 69
+            },
+            "rawWidth": 69,
+            "rawHeight": 85,
+            "width": 75,
+            "height": 91,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/33/33cb7fba-8630-4e31-bbce-a2b055b47270.png",
+            "x": 189,
+            "y": 477,
+            "rotated": true,
+            "rotatedWidth": 91,
+            "rotatedHeight": 75
+          },
+          {
+            "name": "prop_499",
+            "uuid": "5aa03c45-c00c-4bed-a93e-c5357dcf8be8",
+            "textureUuid": "8b0e283d-24d4-40eb-a3a5-4a96bde4de6f",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971181_image_17.png",
+            "trim": {
+              "x": 136,
+              "y": 536,
+              "width": 51,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 51,
+            "rawHeight": 50,
+            "width": 57,
+            "height": 56,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/8b/8b0e283d-24d4-40eb-a3a5-4a96bde4de6f.png",
+            "x": 133,
+            "y": 533,
+            "rotated": true,
+            "rotatedWidth": 56,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "prop_500f",
+            "uuid": "9778fc12-f70c-4119-95c2-dd84739e1f75",
+            "textureUuid": "23ef6806-2201-47d2-b4bc-fe18743a1f3d",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_23.png",
+            "trim": {
+              "x": 380,
+              "y": 513,
+              "width": 71,
+              "height": 78,
+              "rotatedWidth": 78,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 73,
+            "rawHeight": 82,
+            "width": 77,
+            "height": 84,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/23/23ef6806-2201-47d2-b4bc-fe18743a1f3d.png",
+            "x": 377,
+            "y": 510,
+            "rotated": true,
+            "rotatedWidth": 84,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "prop_009i",
+            "uuid": "abdcc926-b1ad-4b9e-99a6-e841bafcfc0d",
+            "textureUuid": "88bb5c42-af92-4ad0-b715-94435d23b650",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_27.png",
+            "trim": {
+              "x": 464,
+              "y": 513,
+              "width": 47,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 45,
+            "width": 53,
+            "height": 51,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/88/88bb5c42-af92-4ad0-b715-94435d23b650.png",
+            "x": 461,
+            "y": 510,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "prop_002i",
+            "uuid": "f4c6dbea-69d4-4702-9a7a-32d8427cfd41",
+            "textureUuid": "2ec3ec70-f234-4f73-84db-71ebb6ddba23",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971187_image_41.png",
+            "trim": {
+              "x": 464,
+              "y": 566,
+              "width": 45,
+              "height": 47,
+              "rotatedWidth": 45,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 45,
+            "rawHeight": 47,
+            "width": 51,
+            "height": 53,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/2e/2ec3ec70-f234-4f73-84db-71ebb6ddba23.png",
+            "x": 461,
+            "y": 563,
+            "rotatedWidth": 51,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "prop_009f",
+            "uuid": "0f413af5-f6cc-4904-b1f2-866bdaeb782a",
+            "textureUuid": "4c7cc1af-6e7f-4941-ad11-eb71efccadc2",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971178_image_1.png",
+            "trim": {
+              "x": 283,
+              "y": 547,
+              "width": 66,
+              "height": 63,
+              "rotatedWidth": 66,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 74,
+            "rawHeight": 83,
+            "width": 72,
+            "height": 69,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/4c/4c7cc1af-6e7f-4941-ad11-eb71efccadc2.png",
+            "x": 280,
+            "y": 544,
+            "rotatedWidth": 72,
+            "rotatedHeight": 69
+          },
+          {
+            "name": "prop_010f",
+            "uuid": "fb83b307-e35b-4795-86dd-3d37c7e644e0",
+            "textureUuid": "f147319a-726b-45af-adeb-392ea2e3f95d",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971188_image_43.png",
+            "trim": {
+              "x": 355,
+              "y": 590,
+              "width": 61,
+              "height": 67,
+              "rotatedWidth": 67,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 74,
+            "rawHeight": 82,
+            "width": 67,
+            "height": 73,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/f1/f147319a-726b-45af-adeb-392ea2e3f95d.png",
+            "x": 352,
+            "y": 587,
+            "rotated": true,
+            "rotatedWidth": 73,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "role_001",
+            "uuid": "b9f3254c-2ca3-4869-82f4-128ad8619c4b",
+            "textureUuid": "45474fff-5a68-45a9-94f1-899b831bce42",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971184_image_29.png",
+            "trim": {
+              "x": 428,
+              "y": 619,
+              "width": 52,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 52
+            },
+            "rawWidth": 93,
+            "rawHeight": 92,
+            "width": 58,
+            "height": 81,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/45/45474fff-5a68-45a9-94f1-899b831bce42.png",
+            "x": 425,
+            "y": 616,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "prop_001",
+            "uuid": "5602b65a-282a-45c0-aaca-b2783ca27a27",
+            "textureUuid": "ac04cdae-c10e-4a89-b9ae-da8a854fa21a",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971181_image_14.png",
+            "trim": {
+              "x": 192,
+              "y": 555,
+              "width": 51,
+              "height": 76,
+              "rotatedWidth": 76,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 51,
+            "rawHeight": 76,
+            "width": 57,
+            "height": 82,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/ac/ac04cdae-c10e-4a89-b9ae-da8a854fa21a.png",
+            "x": 189,
+            "y": 552,
+            "rotated": true,
+            "rotatedWidth": 82,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "prop_501f",
+            "uuid": "99309c61-1630-4958-ae3e-3468597b8131",
+            "textureUuid": "8e311afb-7e52-4109-87cd-87246fc52f62",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971183_image_24.png",
+            "trim": {
+              "x": 100,
+              "y": 593,
+              "width": 57,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 57
+            },
+            "rawWidth": 73,
+            "rawHeight": 82,
+            "width": 63,
+            "height": 72,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/8e/8e311afb-7e52-4109-87cd-87246fc52f62.png",
+            "x": 97,
+            "y": 590,
+            "rotated": true,
+            "rotatedWidth": 72,
+            "rotatedHeight": 63
+          },
+          {
+            "name": "prop_013f",
+            "uuid": "59d6cd17-38b9-411e-a867-deb83060a7e2",
+            "textureUuid": "ac0910e8-b0cf-404f-8bb9-cc249636c433",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971181_image_16.png",
+            "trim": {
+              "x": 3,
+              "y": 601,
+              "width": 60,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 60
+            },
+            "rawWidth": 73,
+            "rawHeight": 82,
+            "width": 66,
+            "height": 66,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/ac/ac0910e8-b0cf-404f-8bb9-cc249636c433.png",
+            "x": 0,
+            "y": 598,
+            "rotatedWidth": 66,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "prop_012f",
+            "uuid": "3e8c15cf-5728-4c20-b13c-b0199bc8c8c3",
+            "textureUuid": "c86b6ae6-80db-4817-9863-feed029559be",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971180_image_11.png",
+            "trim": {
+              "x": 172,
+              "y": 612,
+              "width": 55,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 74,
+            "rawHeight": 82,
+            "width": 61,
+            "height": 61,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/c8/c86b6ae6-80db-4817-9863-feed029559be.png",
+            "x": 169,
+            "y": 609,
+            "rotatedWidth": 61,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "prop_011i",
+            "uuid": "df152f0c-72e4-41d6-8829-4f0910443e6b",
+            "textureUuid": "54c8b586-6e5f-449b-bb01-d6edd5949c03",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971185_image_36.png",
+            "trim": {
+              "x": 233,
+              "y": 612,
+              "width": 45,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 45
+            },
+            "rawWidth": 45,
+            "rawHeight": 44,
+            "width": 51,
+            "height": 50,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/54/54c8b586-6e5f-449b-bb01-d6edd5949c03.png",
+            "x": 230,
+            "y": 609,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "prop_005f",
+            "uuid": "bb73ad31-2807-4da0-bcb9-06131396881b",
+            "textureUuid": "5367f19c-b4dd-4c28-8cec-088fccf8bfce",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971184_image_31.png",
+            "trim": {
+              "x": 69,
+              "y": 656,
+              "width": 52,
+              "height": 56,
+              "rotatedWidth": 52,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 74,
+            "rawHeight": 83,
+            "width": 58,
+            "height": 62,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/53/5367f19c-b4dd-4c28-8cec-088fccf8bfce.png",
+            "x": 66,
+            "y": 653,
+            "rotatedWidth": 58,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "prop_006i",
+            "uuid": "778edab6-e589-40c9-8b56-0709fd0cb778",
+            "textureUuid": "9e8f3ba2-eb2c-4719-9abf-ca5b9f6e0fc0",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971182_image_20.png",
+            "trim": {
+              "x": 3,
+              "y": 667,
+              "width": 49,
+              "height": 48,
+              "rotatedWidth": 48,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 49,
+            "rawHeight": 48,
+            "width": 55,
+            "height": 54,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/9e/9e8f3ba2-eb2c-4719-9abf-ca5b9f6e0fc0.png",
+            "x": 0,
+            "y": 664,
+            "rotated": true,
+            "rotatedWidth": 54,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "prop_013i",
+            "uuid": "73aecf2f-0588-4f97-8a52-7b3920b3cdd0",
+            "textureUuid": "2e0f8a81-7076-49fc-826a-2aaea4625dab",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971182_image_19.png",
+            "trim": {
+              "x": 283,
+              "y": 616,
+              "width": 49,
+              "height": 47,
+              "rotatedWidth": 49,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 49,
+            "rawHeight": 47,
+            "width": 55,
+            "height": 53,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/2e/2e0f8a81-7076-49fc-826a-2aaea4625dab.png",
+            "x": 280,
+            "y": 613,
+            "rotatedWidth": 55,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "prop_010i",
+            "uuid": "cf3ebece-36da-4df1-a9b7-786afe803ba6",
+            "textureUuid": "25f52544-97d1-412a-931f-3ebed5324fad",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971184_image_33.png",
+            "trim": {
+              "x": 338,
+              "y": 657,
+              "width": 48,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 48,
+            "rawHeight": 47,
+            "width": 54,
+            "height": 53,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/25/25f52544-97d1-412a-931f-3ebed5324fad.png",
+            "x": 335,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 53,
+            "rotatedHeight": 54
+          },
+          {
+            "name": "prop_004i",
+            "uuid": "116c44d7-430d-4095-8ecd-857d95c3004e",
+            "textureUuid": "16f1facc-eec7-45bc-91e0-ccea9e6f537e",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971178_image_2.png",
+            "trim": {
+              "x": 233,
+              "y": 669,
+              "width": 47,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 47,
+            "width": 53,
+            "height": 53,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/16/16f1facc-eec7-45bc-91e0-ccea9e6f537e.png",
+            "x": 230,
+            "y": 666,
+            "rotatedWidth": 53,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "prop_005i",
+            "uuid": "cff2df4d-5794-474f-a70b-366e7f31c037",
+            "textureUuid": "aa32887b-740d-4f84-87aa-37f39c837ad0",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971185_image_34.png",
+            "trim": {
+              "x": 286,
+              "y": 669,
+              "width": 46,
+              "height": 48,
+              "rotatedWidth": 46,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 46,
+            "rawHeight": 48,
+            "width": 52,
+            "height": 54,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/aa/aa32887b-740d-4f84-87aa-37f39c837ad0.png",
+            "x": 283,
+            "y": 666,
+            "rotatedWidth": 52,
+            "rotatedHeight": 54
+          },
+          {
+            "name": "prop_012i",
+            "uuid": "14fe3985-121d-4098-a4b1-9480ee565594",
+            "textureUuid": "145c322e-8566-4398-917c-b3566dd1611e",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971178_image_3.png",
+            "trim": {
+              "x": 127,
+              "y": 673,
+              "width": 46,
+              "height": 46,
+              "rotatedWidth": 46,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 46,
+            "width": 52,
+            "height": 52,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/14/145c322e-8566-4398-917c-b3566dd1611e.png",
+            "x": 124,
+            "y": 670,
+            "rotatedWidth": 52,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "prop_001i",
+            "uuid": "2ed5ea69-2054-4155-9e2a-89adb3d2b5f0",
+            "textureUuid": "ae5451df-827a-490d-ba20-1c1d3b42fbf7",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971179_image_8.png",
+            "trim": {
+              "x": 179,
+              "y": 673,
+              "width": 46,
+              "height": 46,
+              "rotatedWidth": 46,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 46,
+            "width": 52,
+            "height": 52,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/ae/ae5451df-827a-490d-ba20-1c1d3b42fbf7.png",
+            "x": 176,
+            "y": 670,
+            "rotatedWidth": 52,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "prop_003i",
+            "uuid": "e9280f40-605d-4b91-b8e3-20a1432cb741",
+            "textureUuid": "65a9dd84-9362-4542-9175-490dbf9193f1",
+            "path": "/Users/xsm/go/src/apple/sheji/temp/trimImages/spritesheet_js_1689818971186_image_39.png",
+            "trim": {
+              "x": 391,
+              "y": 677,
+              "width": 46,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 45,
+            "width": 52,
+            "height": 51,
+            "originalPath": "/Users/xsm/go/src/apple/sheji/library/imports/65/65a9dd84-9362-4542-9175-490dbf9193f1.png",
+            "x": 388,
+            "y": 674,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 52
+          }
+        ],
+        "width": 512,
+        "height": 726,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/xsm/go/src/apple/sheji/temp/TexturePacker/build/native/assets/res/game/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/xsm/go/src/apple/sheji/temp/TexturePacker/build/native/assets/res/game/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

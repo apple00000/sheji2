@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/framework/type/KVData.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\r\ninterface KVData<V> {\r\n    [key:string]:V;\r\n}"]}

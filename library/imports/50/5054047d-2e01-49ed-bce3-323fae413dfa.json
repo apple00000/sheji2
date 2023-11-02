@@ -1,0 +1,100 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "prop_003",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "vk9bWg5jaFxz723XF42/v7jQJr0",
+      "spine": "3.6.53",
+      "width": 37.6,
+      "height": 37.6,
+      "images": "./images/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 0.4,
+        "scaleY": 0.4
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 1,
+        "y": 1
+      }
+    ],
+    "slots": [
+      {
+        "name": "boomB2",
+        "bone": "bone",
+        "attachment": "boomB2"
+      },
+      {
+        "name": "boomB1",
+        "bone": "bone",
+        "attachment": "boomB1"
+      }
+    ],
+    "skins": {
+      "default": {
+        "boomB1": {
+          "boomB1": {
+            "width": 60,
+            "height": 60
+          }
+        },
+        "boomB2": {
+          "boomB2": {
+            "width": 94,
+            "height": 94
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "boomB1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nprop_003.png\r\nsize: 128,64\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nboomB1\r\n  rotate: false\r\n  xy: 42, 16\r\n  size: 24, 24\r\n  orig: 24, 24\r\n  offset: 0, 0\r\n  index: -1\r\nboomB2\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 38, 38\r\n  orig: 38, 38\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "dc0ce151-d835-4c26-9200-f9ca7aa07d84"
+    }
+  ],
+  "textureNames": [
+    "prop_003.png"
+  ],
+  "scale": 1
+}
